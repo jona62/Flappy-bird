@@ -1,0 +1,29 @@
+body{
+  background: #c2fcfb;
+  font-family: monospace;
+  font-size: 14px;
+  }
+
+h1{
+  color: white;
+  cursor: pointer;
+}
+#btn{
+    cursor: pointer;
+}
+.calculator{
+  background: #f2f7ff;
+  padding: 20px;
+}
+
+input:hover{
+  color:#42a3aa;
+}
+
+.output{
+  text-indent: 10px;
+  border: 1px solid white;
+  background: white;
+  height: 50px;
+  width:320px;
+}
